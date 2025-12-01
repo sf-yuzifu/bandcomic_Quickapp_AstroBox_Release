@@ -1,0 +1,50 @@
+{
+  "item": {
+    "name": "晚上漫画",
+    "description": "在Vela设备上浏览并本地保存在线漫画~",
+    "preview": [
+      "preview.png",
+      "more/9pro.pmg",
+      "more/rw5~6.png",
+      "more/s3~4.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/sf-yuzifu/bandcomic",
+    "author": [
+      {
+        "name": "小鱼yuzifu",
+        "author_url": "https://yzf.moe"
+      }
+    ]
+  },
+  "downloads": {
+    "n67": {
+      "version": "1.5",
+      "file_name": "moe.yzf.comic.release.1.5.rpk"
+    },
+    "o65": {
+      "version": "1.5",
+      "file_name": "moe.yzf.comic.release.1.5.rpk"
+    },
+    "o65m": {
+      "version": "1.5",
+      "file_name": "moe.yzf.comic.release.1.5.rpk"
+    },
+    "p65": {
+      "version": "1.5",
+      "file_name": "moe.yzf.comic.release.1.5.rpk"
+    },
+    "n62": {
+      "version": "1.5",
+      "file_name": "moe.yzf.comic.release.1.5.rpk"
+    },
+    "o62": {
+      "version": "1.5",
+      "file_name": "moe.yzf.comic.release.1.5.rpk"
+    },
+    "o62m": {
+      "version": "1.5",
+      "file_name": "moe.yzf.comic.release.1.5.rpk"
+    }
+  }
+}
