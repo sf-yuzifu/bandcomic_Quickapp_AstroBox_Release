@@ -1,7 +1,7 @@
 {
   "item": {
     "name": "腕上漫画",
-    "description": "在Vela设备上浏览并本地保存在线漫画~ 当前版本：V1.9(181)",
+    "description": "在Vela设备上浏览并本地保存在线漫画~ 当前版本：V2.0(205)",
     "preview": [
       "preview.png",
       "more/9pro.png",
@@ -23,36 +23,36 @@
   },
   "downloads": {
     "n67": {
-      "version": "1.9",
-      "file_name": "moe.yzf.comic.release.1.9.rpk"
+      "version": "2.0",
+      "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "o65": {
-      "version": "1.9",
-      "file_name": "moe.yzf.comic.release.1.9.rpk"
+      "version": "2.0",
+      "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "o65m": {
-      "version": "1.9",
-      "file_name": "moe.yzf.comic.release.1.9.rpk"
+      "version": "2.0",
+      "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "p65": {
-      "version": "1.9",
-      "file_name": "moe.yzf.comic.release.1.9.rpk"
+      "version": "2.0",
+      "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "n62": {
-      "version": "1.9",
-      "file_name": "moe.yzf.comic.release.1.9.rpk"
+      "version": "2.0",
+      "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "o62": {
-      "version": "1.9",
-      "file_name": "moe.yzf.comic.release.1.9.rpk"
+      "version": "2.0",
+      "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "o62m": {
-      "version": "1.9",
-      "file_name": "moe.yzf.comic.release.1.9.rpk"
+      "version": "2.0",
+      "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "p62": {
-      "version": "1.9",
-      "file_name": "moe.yzf.comic.release.1.9.rpk"
+      "version": "2.0",
+      "file_name": "moe.yzf.comic.release.2.0.rpk"
     }
   }
 }
