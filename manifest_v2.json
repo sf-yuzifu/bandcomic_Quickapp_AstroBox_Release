@@ -6,9 +6,10 @@
     "description": "在Vela设备上浏览并本地保存在线漫画~ 当前版本：V2.0(205)",
     "preview": [
       "preview.png",
-      "more/9pro.png",
-      "more/rw5~6.png",
-      "more/s.png"
+      "more/pro.png",
+      "more/rw.png",
+      "more/s.png",
+      "more/info.png"
     ],
     "icon": "icon.png",
     "cover": "preview.png",
@@ -53,6 +54,10 @@
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "xmws4": {
+      "version": "2.0",
+      "file_name": "moe.yzf.comic.release.2.0.rpk"
+    },
+    "xmws441": {
       "version": "2.0",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
