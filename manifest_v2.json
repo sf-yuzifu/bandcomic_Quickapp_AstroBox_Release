@@ -3,7 +3,7 @@
     "id": "moe.yzf.comic",
     "restype": "quick_app",
     "name": "腕上漫画",
-    "description": "在Vela设备上浏览并本地保存在线漫画~ 当前版本：V2.0(205)",
+    "description": "在Vela设备上浏览并本地保存在线漫画~\n\n有关比较详细的开源项目介绍使用说明请点开“Gitee”或“Github”链接进行查看\n\n简易教程可以点开“使用教程”链接查看",
     "preview": [
       "preview.png",
       "more/pro.png",
@@ -22,9 +22,19 @@
   },
   "links": [
     {
+      "icon": "notebook",
+      "title": "使用教程",
+      "url": "https://wiki.bandbbs.cn/Guides/astrobox/bandcomic_tutorial.html"
+    },
+    {
       "icon": "github-logo",
       "title": "GitHub",
       "url": "https://github.com/sf-yuzifu/bandcomic"
+    },
+    {
+      "icon": "horse",
+      "title": "Gitee",
+      "url": "https://gitee.com/sf-yuzifu/bandcomic"
     },
     {
       "icon": "house-line",
@@ -35,42 +45,52 @@
   "downloads": {
     "xmb9p": {
       "version": "2.0",
+      "versionCode": "212",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "xmrw5": {
       "version": "2.0",
+      "versionCode": "212",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "xmrw5xring": {
       "version": "2.0",
+      "versionCode": "212",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "xmrw6": {
       "version": "2.0",
+      "versionCode": "212",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "xmws3": {
       "version": "2.0",
+      "versionCode": "212",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "xmws4": {
       "version": "2.0",
+      "versionCode": "212",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "xmws441": {
       "version": "2.0",
+      "versionCode": "212",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "xmws4xring": {
       "version": "2.0",
+      "versionCode": "212",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "xmws5": {
       "version": "2.0",
+      "versionCode": "212",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     },
     "xmb10p": {
       "version": "2.0",
+      "versionCode": "212",
       "file_name": "moe.yzf.comic.release.2.0.rpk"
     }
   },
