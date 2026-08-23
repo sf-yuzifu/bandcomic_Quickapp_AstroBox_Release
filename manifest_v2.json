@@ -94,5 +94,18 @@
       "file_name": "moe.yzf.comic.release.2.2.rpk"
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "required": [
+        {
+          "type": "plugin",
+          "id": "腕上漫画同步器"
+        },
+        {
+          "type": "plugin",
+          "id": "网桥 FetchBridge"
+        }
+      ]
+    }
+  }
 }
