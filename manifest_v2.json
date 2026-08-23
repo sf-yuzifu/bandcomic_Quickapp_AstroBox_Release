@@ -3,7 +3,7 @@
     "id": "moe.yzf.comic",
     "restype": "quick_app",
     "name": "腕上漫画",
-    "description": "在Vela设备上浏览并本地保存在线漫画~\n\n有关比较详细的开源项目介绍使用说明请点开“Gitee”或“Github”链接进行查看\n\n简易教程可以点开“使用教程”链接查看",
+    "description": "在Vela设备上浏览并本地保存在线漫画~\n\n详细使用教程可以点开“使用教程”链接查看！！！\n\n有关比较详细的开源项目介绍使用说明请点开“Gitee”或“Github”链接进行查看了，别忘了你们的Star~",
     "preview": [
       "preview.png",
       "more/pro.png",
@@ -44,54 +44,54 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "2.1",
-      "versionCode": 264,
-      "file_name": "moe.yzf.comic.release.2.1.rpk"
+      "version": "2.2",
+      "versionCode": 318,
+      "file_name": "moe.yzf.comic.release.2.2.rpk"
     },
     "xmrw5": {
-      "version": "2.1",
-      "versionCode": 264,
-      "file_name": "moe.yzf.comic.release.2.1.rpk"
+      "version": "2.2",
+      "versionCode": 318,
+      "file_name": "moe.yzf.comic.release.2.2.rpk"
     },
     "xmrw5xring": {
-      "version": "2.1",
-      "versionCode": 264,
-      "file_name": "moe.yzf.comic.release.2.1.rpk"
+      "version": "2.2",
+      "versionCode": 318,
+      "file_name": "moe.yzf.comic.release.2.2.rpk"
     },
     "xmrw6": {
-      "version": "2.1",
-      "versionCode": 264,
-      "file_name": "moe.yzf.comic.release.2.1.rpk"
+      "version": "2.2",
+      "versionCode": 318,
+      "file_name": "moe.yzf.comic.release.2.2.rpk"
     },
     "xmws3": {
-      "version": "2.1",
-      "versionCode": 264,
-      "file_name": "moe.yzf.comic.release.2.1.rpk"
+      "version": "2.2",
+      "versionCode": 318,
+      "file_name": "moe.yzf.comic.release.2.2.rpk"
     },
     "xmws4": {
-      "version": "2.1",
-      "versionCode": 264,
-      "file_name": "moe.yzf.comic.release.2.1.rpk"
+      "version": "2.2",
+      "versionCode": 318,
+      "file_name": "moe.yzf.comic.release.2.2.rpk"
     },
     "xmws441": {
-      "version": "2.1",
-      "versionCode": 264,
-      "file_name": "moe.yzf.comic.release.2.1.rpk"
+      "version": "2.2",
+      "versionCode": 318,
+      "file_name": "moe.yzf.comic.release.2.2.rpk"
     },
     "xmws4xring": {
-      "version": "2.1",
-      "versionCode": 264,
-      "file_name": "moe.yzf.comic.release.2.1.rpk"
+      "version": "2.2",
+      "versionCode": 318,
+      "file_name": "moe.yzf.comic.release.2.2.rpk"
     },
     "xmws5": {
-      "version": "2.1",
-      "versionCode": 264,
-      "file_name": "moe.yzf.comic.release.2.1.rpk"
+      "version": "2.2",
+      "versionCode": 318,
+      "file_name": "moe.yzf.comic.release.2.2.rpk"
     },
     "xmb10p": {
-      "version": "2.1",
-      "versionCode": 264,
-      "file_name": "moe.yzf.comic.release.2.1.rpk"
+      "version": "2.2",
+      "versionCode": 318,
+      "file_name": "moe.yzf.comic.release.2.2.rpk"
     }
   },
   "ext": {}
