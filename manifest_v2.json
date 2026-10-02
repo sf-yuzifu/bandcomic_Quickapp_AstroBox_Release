@@ -3,7 +3,7 @@
     "id": "moe.yzf.comic",
     "restype": "quick_app",
     "name": "腕上漫画",
-    "description": "在Vela设备上浏览并本地保存在线漫画~\n\n详细使用教程可以点开“使用教程”链接查看！！！\n\n有关比较详细的开源项目介绍使用说明请点开“Gitee”或“Github”链接进行查看了，别忘了你们的Star~",
+    "description": "在Vela设备上浏览并本地保存在线漫画~\n\n详细使用教程可以点开“使用教程”链接查看！！！\n\n有关比较详细的开源项目介绍使用说明请点开“Gitee”或“Github”链接进行查看，别忘了你们的Star~",
     "preview": [
       "preview.png",
       "more/pro.png",
@@ -44,54 +44,114 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "2.2",
-      "versionCode": 318,
-      "file_name": "moe.yzf.comic.release.2.2.rpk"
+      "version": "2.3",
+      "versionCode": 382,
+      "file_name": "moe.yzf.comic.release.2.3.rpk",
+      "updatelogs": [
+        {
+          "version": "2.3(382)",
+          "content": "添加了很多新特性并修复了一堆Bug，内容太多了清移步至开源仓库查看~"
+        }
+      ]
     },
     "xmrw5": {
-      "version": "2.2",
-      "versionCode": 318,
-      "file_name": "moe.yzf.comic.release.2.2.rpk"
+      "version": "2.3",
+      "versionCode": 382,
+      "file_name": "moe.yzf.comic.release.2.3.rpk",
+      "updatelogs": [
+        {
+          "version": "2.3(382)",
+          "content": "添加了很多新特性并修复了一堆Bug，内容太多了清移步至开源仓库查看~"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "2.2",
-      "versionCode": 318,
-      "file_name": "moe.yzf.comic.release.2.2.rpk"
+      "version": "2.3",
+      "versionCode": 382,
+      "file_name": "moe.yzf.comic.release.2.3.rpk",
+      "updatelogs": [
+        {
+          "version": "2.3(382)",
+          "content": "添加了很多新特性并修复了一堆Bug，内容太多了清移步至开源仓库查看~"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "2.2",
-      "versionCode": 318,
-      "file_name": "moe.yzf.comic.release.2.2.rpk"
+      "version": "2.3",
+      "versionCode": 382,
+      "file_name": "moe.yzf.comic.release.2.3.rpk",
+      "updatelogs": [
+        {
+          "version": "2.3(382)",
+          "content": "添加了很多新特性并修复了一堆Bug，内容太多了清移步至开源仓库查看~"
+        }
+      ]
     },
     "xmws3": {
-      "version": "2.2",
-      "versionCode": 318,
-      "file_name": "moe.yzf.comic.release.2.2.rpk"
+      "version": "2.3",
+      "versionCode": 382,
+      "file_name": "moe.yzf.comic.release.2.3.rpk",
+      "updatelogs": [
+        {
+          "version": "2.3(382)",
+          "content": "添加了很多新特性并修复了一堆Bug，内容太多了清移步至开源仓库查看~"
+        }
+      ]
     },
     "xmws4": {
-      "version": "2.2",
-      "versionCode": 318,
-      "file_name": "moe.yzf.comic.release.2.2.rpk"
+      "version": "2.3",
+      "versionCode": 382,
+      "file_name": "moe.yzf.comic.release.2.3.rpk",
+      "updatelogs": [
+        {
+          "version": "2.3(382)",
+          "content": "添加了很多新特性并修复了一堆Bug，内容太多了清移步至开源仓库查看~"
+        }
+      ]
     },
     "xmws441": {
-      "version": "2.2",
-      "versionCode": 318,
-      "file_name": "moe.yzf.comic.release.2.2.rpk"
+      "version": "2.3",
+      "versionCode": 382,
+      "file_name": "moe.yzf.comic.release.2.3.rpk",
+      "updatelogs": [
+        {
+          "version": "2.3(382)",
+          "content": "添加了很多新特性并修复了一堆Bug，内容太多了清移步至开源仓库查看~"
+        }
+      ]
     },
     "xmws4xring": {
-      "version": "2.2",
-      "versionCode": 318,
-      "file_name": "moe.yzf.comic.release.2.2.rpk"
+      "version": "2.3",
+      "versionCode": 382,
+      "file_name": "moe.yzf.comic.release.2.3.rpk",
+      "updatelogs": [
+        {
+          "version": "2.3(382)",
+          "content": "添加了很多新特性并修复了一堆Bug，内容太多了清移步至开源仓库查看~"
+        }
+      ]
     },
     "xmws5": {
-      "version": "2.2",
-      "versionCode": 318,
-      "file_name": "moe.yzf.comic.release.2.2.rpk"
+      "version": "2.3",
+      "versionCode": 382,
+      "file_name": "moe.yzf.comic.release.2.3.rpk",
+      "updatelogs": [
+        {
+          "version": "2.3(382)",
+          "content": "添加了很多新特性并修复了一堆Bug，内容太多了清移步至开源仓库查看~"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "2.2",
-      "versionCode": 318,
-      "file_name": "moe.yzf.comic.release.2.2.rpk"
+      "version": "2.3",
+      "versionCode": 382,
+      "file_name": "moe.yzf.comic.release.2.3.rpk",
+      "updatelogs": [
+        {
+          "version": "2.3(382)",
+          "content": "添加了很多新特性并修复了一堆Bug，内容太多了清移步至开源仓库查看~"
+        }
+      ]
     }
   },
   "ext": {
